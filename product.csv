@@ -1,0 +1,19 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,250.00
+102,Smartphone,Electronics,300.00
+103,Tablet,Electronics,240.00
+104,Headphones,Electronics,100.00
+105,"Office Chair",Furniture,400.00
+106,Desk,Furniture,350.00
+107,Bookshelf,Furniture,200.00
+108,"Dining Table",Furniture,600.00
+109,T-shirt,Clothing,20.00
+110,Jeans,Clothing,50.00
+111,Jacket,Clothing,80.00
+112,Shoes,Clothing,100.00
+113,Football,Sports,25.00
+114,"Tennis Racket",Sports,150.00
+115,Basketball,Sports,30.00
+116,"Gym Bag",Sports,50.00
+117,"Gym Shoes",Sports,50.00
+118,"Laptop Bag",Sports,50.00
